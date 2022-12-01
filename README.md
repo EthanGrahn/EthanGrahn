@@ -1,5 +1,5 @@
 # Ethan Grahn (he/him)
 
-Current Position 💼 Lead Enterprise Software Developer - USGS \
+Current Position 💼 Build Engineer - Deck Nine Games \
 Top Languages 👨‍💻 Python, TypeScript, Java, C# \
 Game Development 🎮 Bark & Claw
